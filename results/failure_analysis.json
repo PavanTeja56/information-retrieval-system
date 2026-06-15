@@ -1,0 +1,86 @@
+{
+    "bm25_failures_dense_successes": [
+        {
+            "query": ". what is a corporation?",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "why did rachel carson write an obligation to endure",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "why did the progressive movement fail to advance racial equality quizlet",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "why do police need to understand what the forensic scientists do",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "do owls eat in the day",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "symptoms of a dying mouse",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "average number of lightning strikes per day",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "can you burn your lawn with fertilizer",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "are volvox autotrophic or heterotrophic",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        },
+        {
+            "query": "average force of a raindrop",
+            "explanation": "BM25 failed due to keyword mismatch while dense retrieval successfully captured semantic similarity."
+        }
+    ],
+    "dense_failures_bm25_successes": [
+        {
+            "query": ". what is a corporation?",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "why did rachel carson write an obligation to endure",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "why did the progressive movement fail to advance racial equality quizlet",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "why do police need to understand what the forensic scientists do",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "do owls eat in the day",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "symptoms of a dying mouse",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "average number of lightning strikes per day",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "can you burn your lawn with fertilizer",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "are volvox autotrophic or heterotrophic",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        },
+        {
+            "query": "average force of a raindrop",
+            "explanation": "Dense retrieval failed to prioritize the exact keyword whereas BM25 matched the specific terms successfully."
+        }
+    ]
+}
