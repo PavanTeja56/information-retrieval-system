@@ -1,0 +1,8 @@
+numpy==2.2.6
+datasets==4.0.0
+rank_bm25==0.2.2
+sentence-transformers==5.0.0
+faiss-cpu==1.11.0.post1
+pytrec_eval==0.5
+nltk==3.9.1
+tqdm==4.67.1
